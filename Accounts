@@ -1,2 +1,16 @@
-spylegion:loopback:Moderator
-admin:admin:Dev
+"accounts": [
+{
+  "name": "admin",
+  "password": "admin",
+  "status": "Not Banned",
+  "rank": "Developer",
+  "active": true
+},
+{
+  "name": "invisible",
+  "password": "invisibleloopback",
+  "status": "Not Banned",
+  "rank": "Moderator",
+  "active": true
+}
+]
