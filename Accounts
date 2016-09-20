@@ -3,7 +3,7 @@
     "name": "admin",
     "password": "admin",
     "rank": "Admin"
-  }
+  },
   "invisible": {
     "name": "invisible",
     "password": "invisible",
