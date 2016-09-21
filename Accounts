@@ -1,12 +1,12 @@
 {
   "admin": {
-    "name": "admin",
+    "name": "Admin",
     "password": "admin",
     "rank": "Admin"
   },
   "invisible": {
     "name": "invisible",
     "password": "invisible",
-    "rank": "Moderator"
+    "rank": "Challenjour"
   }
 }
