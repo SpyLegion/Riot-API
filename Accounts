@@ -2,16 +2,19 @@
   "admin": {
     "name": "ExTragoZ",
     "password": "admin",
+    "status": "Not Banned",
     "rank": "Developer"
   },
   "invisible": {
     "name": "Invisible",
     "password": "invisible",
+    "status": "Not Banned",
     "rank": "Challenjour"
   },
   "trial": {
     "name": "Trial",
     "password": "test",
+    "status": "Banned",
     "rank": "Subscriber"
   }
 }
