@@ -15,7 +15,6 @@
     "name": "Trial",
     "password": "test",
     "status": "Banned",
-    "reason": "Leacher",
     "rank": "Subscriber"
   }
 }
