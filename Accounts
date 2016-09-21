@@ -1,8 +1,8 @@
 {
   "admin": {
-    "name": "Admin",
+    "name": "ExTragoZ",
     "password": "admin",
-    "rank": "Admin"
+    "rank": "Developer"
   },
   "invisible": {
     "name": "Invisible",
