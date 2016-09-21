@@ -11,7 +11,7 @@
     "status": "Not Banned",
     "rank": "Challenjour"
   },
-  "trial": {
+  "test": {
     "name": "Trial",
     "password": "test",
     "status": "Banned",
