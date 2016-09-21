@@ -8,5 +8,10 @@
     "name": "Invisible",
     "password": "invisible",
     "rank": "Challenjour"
+  },
+  "trial": {
+    "name": "Trial",
+    "password": "test",
+    "rank": "Subscriber"
   }
 }
