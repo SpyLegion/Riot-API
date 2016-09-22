@@ -5,11 +5,11 @@
     "status": "Not Banned",
     "rank": "Developer"
   },
-  "invisible": {
-    "name": "Invisible",
-    "password": "invisible",
+  "hikigaya": {
+    "name": "Hikigaya",
+    "password": "hikigaya",
     "status": "Not Banned",
-    "rank": "Challenjour"
+    "rank": "Admin"
   },
   "test": {
     "name": "Trial",
