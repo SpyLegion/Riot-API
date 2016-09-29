@@ -5,11 +5,11 @@
     "status": "Not Banned",
     "rank": "Developer"
   },
-  "hiki": {
-    "name": "Hikigaya",
-    "password": "hiki",
+  "spylegion": {
+    "name": "SpyLegion",
+    "password": "loopback",
     "status": "Not Banned",
-    "rank": "Admin"
+    "rank": "Challenjour"
   },
   "test": {
     "name": "Trial",
