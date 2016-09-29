@@ -14,7 +14,7 @@
   "test": {
     "name": "Trial",
     "password": "test",
-    "status": "Banned",
+    "status": "Not Banned",
     "reason": "leacher",
     "rank": "Subscriber"
   }
