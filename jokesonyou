@@ -1,16 +1,3 @@
-{
-  "clients": [
-    {
-      "ClientName": "todofu",
-      "IsActive": true,
-      "SurvivorHash": "8e75901861774eb21092d793df8f3f26",
-      "SurvivorDash": "VWtSWk5VNUVaM3BQUlZrOQ=="
-    },
-    {
-      "ClientName": "eXtraGoZ",
-      "IsActive": true,
-      "SurvivorHash": "8e75901861774eb21092d793df8f3f26",
-      "SurvivorDash": "VFdwS1JrNUZVa1pPVlVVOQ=="
-    }
-  ]
-}
+8e75901861774eb21092d793df8f3f26
+VWtSWk5VNUVaM3BQUlZrOQ==
+VFdwS1JrNUZVa1pPVlVVOQ==
