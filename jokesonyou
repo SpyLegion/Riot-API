@@ -4,13 +4,17 @@
     "IsActive": true,
     "SurvivorHash": "8e75901861774eb21092d793df8f3f26",
     "SurvivorDash": "VFdwS1JrNUZVa1pPVlVVOQ==",
-    "SurvivorRole": "Developer"
+    "SurvivorRole": "Developer",
+    "ClientCreationDate: "05.02.17 00:00:00",
+    "ClientRoleExpirationDate": "05.05.20 00:00:00"
   },
   "VWtSWk5VNUVaM3BQUlZrOQ==": {
     "ClientName": "todofu",
     "IsActive": true,
     "SurvivorHash": "8e75901861774eb21092d793df8f3f26",
     "SurvivorDash": "VWtSWk5VNUVaM3BQUlZrOQ==",
-    "SurvivorRole": "Subscriber"
+    "SurvivorRole": "Subscriber",
+    "ClientCreationDate: "05.02.17 00:00:00",
+    "ClientRoleExpirationDate": "05.03.17 00:00:00"
   }
 }
